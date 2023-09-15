@@ -7,6 +7,8 @@ TagManager:
   - ReflectWall
   - DeathWallRight
   - DeathWallLeft
+  - PlayerRight
+  - PlayerLeft
   layers:
   - Default
   - TransparentFX
